@@ -1,5 +1,7 @@
 @charset "utf-8";
 
+/* 以下のコードは、(https://nyanblog2222.com/programming/javascript/2749/)、(https://nyanblog2222.com/programming/javascript/2835/)から引用、一部を改変しました */
+
 /*全体*/
 .wrapper{
 	width: 95vw;

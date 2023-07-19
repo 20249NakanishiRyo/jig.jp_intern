@@ -1,3 +1,5 @@
+// 以下のコードは、(https://nyanblog2222.com/programming/javascript/2749/)、(https://nyanblog2222.com/programming/javascript/2835/)から引用、一部を改変しました
+
 const week = ["日", "月", "火", "水", "木", "金", "土"];
 const today = new Date();
 const APIURL = 'https://holidays-jp.github.io/api/v1/date.csv';
